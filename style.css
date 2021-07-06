@@ -13,7 +13,7 @@ h1{
 h2
 {
     font-size:40px;
-    color:grey;
+    
 }
 h3{
     font-size:30px;
@@ -99,6 +99,9 @@ p{
     text-align:center;
     margin:20px 320px;
 }
+.Third-heading h2{
+    color:grey;
+}
 
 .three-card
 {
@@ -128,4 +131,54 @@ p{
     font-weight:bold;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+
+/* third section */
+
+.fourth-section
+{
+    display: flex;
+    margin:100px;
+    text-align:center;
+    box-shadow: 0 0 20px gray;
+    border-radius:20px;
+
+}
+
+.popular
+{
+    width: 30%;
+    padding:20px;  
+    margin-left:3%;
+    border-radius:25px;
+}
+.popular p
+{
+    font-size:15px;
+    padding-top:0px;
+    padding-bottom:20px;
+    margin-top:0px; 
+   
+
+}
+
+.popular h1
+{
+    opacity:1;
+   margin-bottom:0px;
+}
+
+
+.footer-section
+{
+    background-color:rgb(7, 4, 17);
+    text-align:center;
+    padding-top:10px;
+    padding-bottom: 70px;
+    color:rgb(56, 101, 122);}
+
+.footer-section h2
+{
+    
+    color:grey;
 }

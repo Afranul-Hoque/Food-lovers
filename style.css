@@ -94,7 +94,7 @@ p{
 /* third section */
 
 
-.Third-heading
+.Top-heading
 {
     text-align:center;
     margin:20px 320px;
@@ -175,10 +175,57 @@ p{
     text-align:center;
     padding-top:10px;
     padding-bottom: 70px;
-    color:rgb(56, 101, 122);}
+    color:rgb(56, 101, 122);
+    margin-top: 100px;
+
+}
+    
 
 .footer-section h2
 {
     
     color:grey;
 }
+
+
+/*---clients review */
+
+.client-image
+{
+    width:150px;
+    height:150px;
+    padding:5px;
+    
+    border-radius:60%;
+    margin-left:100px;
+        
+}
+
+
+
+
+.advert-section
+{
+    
+    display:flex;
+    
+}
+
+.advert-discription
+{
+    width: 50%;
+    margin-top: 100px;
+    margin-right:60px;
+}
+.advert-discription img
+{
+   height:400px;
+   width:400px;
+   margin-left:100px;
+}
+.burger-discription p
+{
+    margin-bottom:80px;
+}
+
+
